@@ -2,7 +2,8 @@
 
 ABSOLUTE_FILENAME=`readlink -f "$0"`
 HOME_FOLDER=`dirname "$ABSOLUTE_FILENAME"`
-BASE_URL="https://raw.githubusercontent.com/Anonym-tsk/nfqws-keenetic/master"
+#BASE_URL="https://raw.githubusercontent.com/Anonym-tsk/nfqws-keenetic/master"
+BASE_URL="https://raw.githubusercontent.com/FMW14/nfqws-keenetic/old"
 
 cd /tmp
 mkdir -p nfqws-keenetic/common
